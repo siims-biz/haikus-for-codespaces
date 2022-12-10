@@ -1,6 +1,7 @@
-
 # December 10, 2022 - We joined the guys who are doing some codespace testing
 https://docs.github.com/en/codespaces/getting-started/quickstart
+
+You prefer not to follow the instructions about extension fairyfloss :-)
 
 # Haikus for Codespaces
 
